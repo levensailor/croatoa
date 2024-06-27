@@ -1,0 +1,32 @@
+- skill: Software Engineering
+  description: Well versed in high level scripting languages such as Python and Node.js and interfacing with APIs
+
+- skill: Databases
+  description: SQL, Mongo and DynamoDB environments, best practices, and query languages
+
+- skill: CI/CD
+  description: Familiar with pipelines for pushing, testing and deploying code in numerous environments
+
+- skill: IaC
+  description: Infrastructure as Code templates, both terraform and cloudformation
+  
+- skill: Unified Communications
+  description: Expert in Cisco UC programmability, Zoom APIs, and Microsoft Graph API
+  
+- skill: Contact Center
+  description: Expert in Finesse gadgets, Amazon Connect, Bots using Dialogflow/Lex
+
+- skill: Orchestrators
+  description: Rancher and K8s, Amazon ECS/EKS
+
+- skill: Microservices
+  description: AWS Lambda, Dynamo and API Gateway stack
+
+- skill: Design
+  description: Excellent at creating beautiful hardware and software diagrams to communicate solutions
+
+- skill: Project Management
+  description: Advocate of Kanban boards, and contributor to Wekan project
+
+- skill: Leadership
+  description: Public speaking, mentoring, and encouraging a community of growth and sharing knowledge

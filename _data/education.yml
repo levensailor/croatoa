@@ -1,0 +1,18 @@
+# Degree
+- degree: Bachelor of Science, MIS
+  uni: University of Massachusetts
+  year: 2010
+  awards:
+    - award: 3.5 GPA
+    - award: Computer Networks
+    - award: Unix Administration
+  summary: 
+
+- degree: Computer Science
+  uni: University of North Carolina at Wilmington
+  year: 2001-2006
+  awards:
+    - award: Object Oriented Programming (Java)
+    - award: Data Structures
+    - award: Computer Animation
+  summary:

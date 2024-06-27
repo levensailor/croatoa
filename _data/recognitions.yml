@@ -1,0 +1,35 @@
+# Recognitions
+- award: Engineer of the Year
+  organization: Presidio
+  year: 2019
+  summary: Awarded to the Engineer considered most valuable to the business
+
+- award: Devnet Creator
+  organization: Cisco
+  year: 2018
+  summary: Awarded to 5 notable innovators each year who contribute to the Cisco Developer community, learn new skills and enable their organizations to scale out.
+
+- award: Culture Award
+  organization: Presidio
+  year: 2017
+  summary: Integrity - Forward Thinking - Execution Excellence - Teamwork
+
+- award: Presidio Exchange Hackathon winner
+  organization: Cisco
+  year: 2019
+  summary: Created an application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
+
+- award: Presidio Innovations (Sharktank) winner
+  organization: Presidio
+  year: 2018
+  summary: UC Chat Ops for the enterprise
+
+- award: Presidio Innovations (Sharktank) winner
+  organization: Presidio
+  year: 2017
+  summary: Test Plan automation platform
+
+- award: Hackathon Orlando winner
+  organization: Redhat
+  year: 2016
+  summary: Created Smartphone app for Non Emergency Medical Transportation 

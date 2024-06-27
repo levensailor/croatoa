@@ -1,0 +1,64 @@
+# Site settings
+title: "Jeff Levensailor CV"
+description: "Jeff Levensailor CV"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Jeff Levensailor"
+resume_title:                   "Distinguished Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "jeff@levensailor.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "+19194289853"
+resume_contact_address:         "Wilmington, North Carolina"
+
+resume_header_contact_info:     "Wilmington North Carolina • +19194289853 • jeff_at_levensailor.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>Strong technical leader and chief enabler focused on cloud, devops, and automation; seeking an opportunity to apply experience to grow the practice in a director role. </p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_contributions:   true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           false
+resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/levensailor/cv"
+  resume_twitter_url:           "http://twitter.com/levensailor"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/levensailor"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://cdpneighbors.com"
+  resume_medium_url:            "https://medium.com/@jefflevensailor"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

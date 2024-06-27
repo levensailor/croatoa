@@ -1,0 +1,47 @@
+- name: Cisco DevNet Create Presenter, 2021
+  description: Webex Compliance data as a source for AI/ML Applications
+  
+- name: Cisco DevNet Create Presenter, 2020
+  description: Webex Admin APIs, Automate your job as an admin. 
+
+- name: Cisco Live Panel, 2018
+  description: DEVNET-1895, How Do I Grow My Career? Career Growth through Pivots and Teamwork (with Susie Wee)
+
+- name: Cisco Live Innovation Showcase, 2018
+  description: Created an energy saving dashboard using DNA Center and location based analytics (Cisco funded)
+
+- name: DevNet Create Presenter, 2020
+  description: Webex Admin APIs
+  
+- name: DevNet Create Workshop, 2019
+  description: How to teach an old prog new tricks - ChatOps for the Enterprise
+
+- name: DevNet Create Presenter, 2019
+  description: Contact Center AI for More Efficient Governments
+
+- name: Presidio Exchange, 2016-2019
+  description: DevOps planning committee, teach a top rated "UC Automation" class every year
+
+- name: Presidio Exchange Panel, 2019
+  description: Hybrid Engineering, what does the next generation network engineer look like?
+
+- name: DevNet Expert Certifications
+  description: Worked closely with Cisco Certification Product Manager to build blueprint for new Lab Exam
+
+- name: DEVWBX
+  description: Authored questions for Cisco Certified DevNet Specialist - Webex
+
+- name: CLAUTO
+  description: Authored questions for Cisco Certified DevNet Specialist - Collaboration Automation and Programmability
+
+- name: ciscoaxl (PyPi)
+  description: Python SDK for Cisco Unified Communications Manager Administrative XML
+
+- name: ciscoris (PyPi)
+  description: Python SDK for Cisco Unified Communications Manager Real-Time Information Service
+
+- name: py-cisco-remote (PyPi)
+  description: Computer Telephony Integration Library with both Interactive and Macro mode
+
+- name: phonescrape (PyPi)
+  description: Creates structured data from Cisco IP Phones web interface
